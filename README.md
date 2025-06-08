@@ -14,9 +14,6 @@ Projeto simples desenvolvido em **HTML, CSS e JavaScript** para realizar a consu
   - Estado (UF)
 - Tratamento de CEPs inválidos ou inexistentes.
 - Interface leve, limpa e responsiva.
-- Assinatura com nome e RA do desenvolvedor.
-
-> Interface responsiva com design minimalista e resultado organizado.
 
 ## 💻 Tecnologias
 
@@ -29,4 +26,4 @@ Projeto simples desenvolvido em **HTML, CSS e JavaScript** para realizar a consu
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/consulta-cep-viacep.git
+   git clone https://github.com/seu-usuario/Consulta_De_CEP.git
